@@ -1,0 +1,4 @@
+C:\Users\haitnguyen\Documents\Visual Studio 2010\Projects\CTDL_LeThanhTrung\CTDL_LeThanhTrung\bin\Debug\CTDL_LeThanhTrung.exe
+C:\Users\haitnguyen\Documents\Visual Studio 2010\Projects\CTDL_LeThanhTrung\CTDL_LeThanhTrung\bin\Debug\CTDL_LeThanhTrung.pdb
+C:\Users\haitnguyen\Documents\Visual Studio 2010\Projects\CTDL_LeThanhTrung\CTDL_LeThanhTrung\obj\x86\Debug\CTDL_LeThanhTrung.exe
+C:\Users\haitnguyen\Documents\Visual Studio 2010\Projects\CTDL_LeThanhTrung\CTDL_LeThanhTrung\obj\x86\Debug\CTDL_LeThanhTrung.pdb

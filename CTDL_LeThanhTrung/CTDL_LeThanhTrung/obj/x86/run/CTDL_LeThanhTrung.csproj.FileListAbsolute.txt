@@ -1,0 +1,3 @@
+C:\Users\haitnguyen\Documents\Visual Studio 2010\Projects\CTDL_LeThanhTrung\CTDL_LeThanhTrung\bin\x86\run\CTDL_LeThanhTrung.exe
+C:\Users\haitnguyen\Documents\Visual Studio 2010\Projects\CTDL_LeThanhTrung\CTDL_LeThanhTrung\obj\x86\run\CTDL_LeThanhTrung.exe
+C:\Users\haitnguyen\Documents\Visual Studio 2010\Projects\CTDL_LeThanhTrung\CTDL_LeThanhTrung\obj\x86\run\CTDL_LeThanhTrung.csprojResolveAssemblyReference.cache
